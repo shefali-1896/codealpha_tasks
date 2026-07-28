@@ -12,4 +12,4 @@ This repository contains my Python internship tasks completed for the CodeAlpha 
 - Python
 - Random Module
 
-Thank you for visiting my repository!# codealpha_tasks
+Thank you for visiting my repository!# 
